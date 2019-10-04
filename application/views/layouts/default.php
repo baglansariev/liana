@@ -7,6 +7,7 @@
     <meta name="yandex-verification" content="6a4af72c2e26a571" />
 	<meta name="description" content="<?= $this->asset->getMetaDesc() ?>">
 	<meta name="keywords" content="<?= $this->asset->getMetaKeys() ?>">
+    <meta name="yandex-verification" content="ddce66650fee26ba" />
 	<title><?= $this->asset->getTitle() ?></title>
 	<link rel="shortcut icon" href="/public/images/favicon.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap" rel="stylesheet">

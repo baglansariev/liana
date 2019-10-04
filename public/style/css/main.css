@@ -178,9 +178,11 @@ header .container{
 	align-items: center;
 	font-size: calc(1vw + 9px);
 	margin: 20px 0;
+	text-align: center
 }
 .main-subtitle span{
 	margin-bottom: 10px;
+	text-align: center
 }
 .main-subscribe{
 	font-size: 18px;
