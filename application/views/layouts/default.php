@@ -30,6 +30,7 @@
     <script type="text/javascript" src="/public/style/js/particles-switcher.js"></script>
 <!--	<script type="text/javascript" src="/public/style/js/app.js"></script>-->
 	<script type="text/javascript" src="/public/style/js/app.min.js"></script>
+    <script src="//code.jivosite.com/widget.js" data-jv-id="h9KLaWxglI" async></script>
 	<? foreach($this->asset->getJs() as $js): ?>
 	<script type="text/javascript" src="<?= $js ?>"></script>
 	<? endforeach ?>
