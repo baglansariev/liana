@@ -14,6 +14,7 @@
             <i class="fas fa-arrow-down"></i>
         </span>
     </div>
+    <div id="head-particles-js"></div>
 </section>
 <section class="services" id="services">
     <div class="container">

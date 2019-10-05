@@ -26,6 +26,8 @@
     <script type="text/javascript" src="/public/style/font-awesome/js/all.min.js"></script>
     <script type="text/javascript" src="/public/style/owl-carousel/owl.carousel.min.js"></script>
     <script type="text/javascript" src="/public/style/js/masked_input.js"></script>
+    <script type="text/javascript" src="/public/style/js/particles.min.js"></script>
+    <script type="text/javascript" src="/public/style/js/particles-switcher.js"></script>
 <!--	<script type="text/javascript" src="/public/style/js/app.js"></script>-->
 	<script type="text/javascript" src="/public/style/js/app.min.js"></script>
 	<? foreach($this->asset->getJs() as $js): ?>
