@@ -35,12 +35,12 @@
             <div class="col-lg-4 col-md-12">
                 <div class="forecast-service">
                     <p class="forecast-icon">
-                        <i class="fas fa-coffee"></i>
+                        <i class="fas fa-grip-horizontal"></i>
                     </p>
                     <strong class="forecast-title">
-                        Гадание на кофейной гуще
+                        Очищение воском
                     </strong>
-                    <p class="forecast-text">Получение ответов на вопросы связанные с будущим, настоящим и прошлым используя знаки кофейной гущи.</p>
+                    <p class="forecast-text">Очистка негативной энергии, которая плохо влияет для ауры человека, при помощи воска.</p>
                     <a href="https://wa.me/77785766626" target="_blank" class="forecast-link">
                         Записаться <i class="fas fa-arrow-right"></i>
                     </a>
