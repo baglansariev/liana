@@ -22,7 +22,7 @@
                 </li>
             </ul>
         </nav>
-        <button id="appointment" class="gen-btn main-btn" type="button" onclick="location.href='https://wa.me/77024441143'">Записаться</button>
+        <button id="appointment" class="gen-btn main-btn" type="button" onclick="location.href='https://wa.me/77785766626'">Записаться</button>
         <span class="mobile-burger">
             <i class="fas fa-bars"></i>
         </span>

@@ -44,6 +44,20 @@
 
         gtag('config', 'UA-149797964-1');
     </script>
+    <!-- Global site tag (gtag.js) - Google Ads: 703335733 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-703335733"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-703335733');
+    </script>
+    <!-- Event snippet for Ватсап conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-703335733/l2CgCN2S8q8BELWasM8C'});
+    </script>
+
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
         (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
