@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="/public/style/bootstrap/bootstrap.css">
     <link  rel="stylesheet" href="/public/style/owl-carousel/owl.carousel.min.css">
     <link  rel="stylesheet" href="/public/style/owl-carousel/owl.theme.default.min.css">
-<!--    <link rel="stylesheet" href="/public/style/css/main.css">-->
-    <link rel="stylesheet" href="/public/style/css/main.min.css">
+    <link rel="stylesheet" href="/public/style/css/main.css">
+<!--    <link rel="stylesheet" href="/public/style/css/main.msin.css">-->
     <? foreach($this->asset->getCss() as $css): ?>
 	<link rel="stylesheet" href="<?= $css ?>">
 	<? endforeach ?>

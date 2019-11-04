@@ -165,7 +165,7 @@ header .container{
 	color: yellow;
 }
 .head-banner{
-	height: 100vh;
+	min-height: 100vh;
 	padding-top: 130px;
 	margin-top: -108px;
 	background-image: url('/public/images/bg-hero.jpg');
@@ -218,6 +218,24 @@ header .container{
 .go-down:hover{
 	color: #F66358;
 	margin-top: 35px;
+}
+.head-banner .container .row{
+	width: 100%;
+	z-index: 999;
+	margin-top: 30px;
+}
+.fast-link{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	color: #fff;
+	border: 2px solid #F66358;
+	margin-bottom: 20px;
+}
+.fast-link:hover{
+	border-color: #fff;
 }
 .forecast-service{
 	background-color: #0D0D0D;

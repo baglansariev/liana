@@ -13,6 +13,26 @@
         <span class="go-down">
             <i class="fas fa-arrow-down"></i>
         </span>
+        <div class="row">
+            <div class="col-md-4">
+                <a href="tel:+77785766626" class="fast-link">
+                    <i class="fas fa-phone-alt"></i>
+                    <span>+7(778) 576 66 26</span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="https://wa.me/77785766626" class="fast-link">
+                    <i class="fab fa-whatsapp"></i>
+                    <span>Написать ватсап</span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="https://instagram.com/@gadanieliana" class="fast-link">
+                    <i class="fab fa-instagram"></i>
+                    <span>Instagram</span>
+                </a>
+            </div>
+        </div>
     </div>
     <div id="head-particles-js"></div>
 </section>
